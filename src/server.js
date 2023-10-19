@@ -4,7 +4,7 @@ const bananas = require('express');
 const app = bananas();
 
 const HOST = process.env.HOST || 'localhost';
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 // Ports can only be a integer between 1001 - 65536 
 
 // instance.routes(controllers or middleware)

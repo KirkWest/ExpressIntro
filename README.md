@@ -1,4 +1,4 @@
-# ExpressIntro# FEB23-T3W10-ExpressIntro
+# FEB23-T3W10-ExpressIntro
 
 17th Oct 2023 - Tuesday - 7pm-9pm
 Ed: 
@@ -21,6 +21,7 @@ Goals:
 	- Using middleware to do things like validation and authentication
 
 Kahoot bits:
-- package-lock.json in gitignore 
-- app.post 
-- when is middleware executed 
+- [x] package-lock.json in gitignore 
+- [x] app.post 
+- [x] when is middleware executed 
+- [x] route order and duplicate routes 
